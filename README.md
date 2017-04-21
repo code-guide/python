@@ -7,15 +7,18 @@
     - io
 
 - declare & type
+    - declare
+    - type
+    - string
 
 - operator
+    - operator
 
 - process control
 
 - function
 
 - data structure
-    - string
     - list
     - tuple
     - directory
