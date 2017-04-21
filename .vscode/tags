@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MAX_NUMBER	../_1_declare_type/declare.py	/^MAX_NUMBER = 10$/;"	kind:variable	line:7
+declare.py	../_1_declare_type/declare.py	1;"	kind:file	line:1
+dic	../_5_data_structure/directory.py	/^dic = {'a': 1, 'b': 2}$/;"	kind:variable	line:6
+dic	../_5_data_structure/directory.py	/^dic = {'a': 1}$/;"	kind:variable	line:13
+directory.py	../_5_data_structure/directory.py	1;"	kind:file	line:1
+helloworld.py	../_0_helloworld/helloworld.py	1;"	kind:file	line:1
+isDelete	../_1_declare_type/type.py	/^isDelete = True/;"	kind:variable	line:12
+list.py	../_5_data_structure/list.py	1;"	kind:file	line:1
+name	../_1_declare_type/declare.py	/^name = 'honpery'$/;"	kind:variable	line:4
+name	../_1_declare_type/type.py	/^name = '张三'$/;"	kind:variable	line:9
+num	../_1_declare_type/type.py	/^num = 11$/;"	kind:variable	line:6
+result	../_5_data_structure/list.py	/^result = '王五' in students$/;"	kind:variable	line:26
+result	../_5_data_structure/list.py	/^result = len(students)$/;"	kind:variable	line:17
+stu1	../_5_data_structure/tuple.py	/^stu1 = ('张三', '李四')$/;"	kind:variable	line:17
+stu2	../_5_data_structure/tuple.py	/^stu2 = ('王五', )$/;"	kind:variable	line:18
+students	../_5_data_structure/list.py	/^students = ['张三', '李四']$/;"	kind:variable	line:6
+students	../_5_data_structure/list.py	/^students = ['张三'] * 4$/;"	kind:variable	line:20
+students	../_5_data_structure/tuple.py	/^students = ('张三', '李四')$/;"	kind:variable	line:8
+students	../_5_data_structure/tuple.py	/^students = stu1 + stu2$/;"	kind:variable	line:19
+tuple.py	../_5_data_structure/tuple.py	1;"	kind:file	line:1
+type.py	../_1_declare_type/type.py	1;"	kind:file	line:1
