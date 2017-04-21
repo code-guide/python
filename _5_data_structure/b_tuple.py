@@ -13,7 +13,7 @@ students = ('张三', '李四')
 # 不可删除单个元素，可以删除整个元组 del name
 del students
 
-# 可以连接两个枚举
+# 可以连接两个元组
 stu1 = ('张三', '李四')
 stu2 = ('王五', )
 students = stu1 + stu2

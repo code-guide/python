@@ -22,6 +22,7 @@
     - list
     - tuple
     - directory
+    - set
 
 - oop
 

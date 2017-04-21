@@ -15,5 +15,5 @@ dic = {'a': 1}
 print(dic)
 
 # 删除
-del dic['b']
-del dic
+# del dic['b']
+# del dic
