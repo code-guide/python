@@ -10,8 +10,10 @@ dic	../_5_data_structure/directory.py	/^dic = {'a': 1, 'b': 2}$/;"	kind:variable
 dic	../_5_data_structure/directory.py	/^dic = {'a': 1}$/;"	kind:variable	line:13
 directory.py	../_5_data_structure/directory.py	1;"	kind:file	line:1
 helloworld.py	../_0_helloworld/helloworld.py	1;"	kind:file	line:1
+io.py	../_0_helloworld/io.py	1;"	kind:file	line:1
 isDelete	../_1_declare_type/type.py	/^isDelete = True/;"	kind:variable	line:12
 list.py	../_5_data_structure/list.py	1;"	kind:file	line:1
+name	../_0_helloworld/io.py	/^name = input("请输入姓名：")$/;"	kind:variable	line:4
 name	../_1_declare_type/declare.py	/^name = 'honpery'$/;"	kind:variable	line:4
 name	../_1_declare_type/type.py	/^name = '张三'$/;"	kind:variable	line:9
 num	../_1_declare_type/type.py	/^num = 11$/;"	kind:variable	line:6
