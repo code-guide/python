@@ -21,7 +21,7 @@
 - data structure
     - list
     - tuple
-    - directory
+    - dict
     - set
 
 - oop
